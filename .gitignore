@@ -1,0 +1,11 @@
+# macOS
+.DS_Store
+
+# Xcode
+xcuserdata/
+DerivedData/
+build/
+*.xcuserstate
+
+# ⚠️ 真实 API key 不进 git —— 克隆后复制 Config.example.swift 为 Config.swift 填入 key
+Config.swift
